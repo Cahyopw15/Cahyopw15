@@ -6,7 +6,7 @@ As an aspiring Data Scientist with a strong passion for Python programming, I am
 
 - 🌍  I'm based in Lampung, Indonesia
 - 🖥️  See my portfolio at [Project Portfolio Data](https://github.com/Cahyopw15/CahyoPrasetiyoWibowo-Project-Portfolio/tree/main/Project%20Data%20Science) , [Mini Project](https://github.com/Cahyopw15/CahyoPrasetiyoWibowo-Project-Portfolio/tree/main/ds-projects-mini) and [IoT Project](https://github.com/Cahyopw15/IoT-Project/tree/main/Monitoring%20Sensor%20Muscle%20Project).
-- 🖥️   See my Repositories [Other Project Repositories](https://github.com/Cahyopw15?tab=repositories)
+- 🖥️     See my Repositories [Other Project Repositories](https://github.com/Cahyopw15?tab=repositories)
 - ✉️  You can contact me at [cahyoprasetiyowibowo@gmail.com](mailto:cahyoprasetiyowibowo@gmail.com)
 
 ### Skills
